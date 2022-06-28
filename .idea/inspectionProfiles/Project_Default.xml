@@ -1,0 +1,44 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="pyopencl" />
+            <item index="1" class="java.lang.String" itemvalue="qtconsole" />
+            <item index="2" class="java.lang.String" itemvalue="pyopengl" />
+            <item index="3" class="java.lang.String" itemvalue="xgbfir" />
+            <item index="4" class="java.lang.String" itemvalue="hdf5plugin" />
+            <item index="5" class="java.lang.String" itemvalue="tabulate" />
+            <item index="6" class="java.lang.String" itemvalue="plotly" />
+            <item index="7" class="java.lang.String" itemvalue="pyqt5" />
+            <item index="8" class="java.lang.String" itemvalue="shap" />
+            <item index="9" class="java.lang.String" itemvalue="seaborn" />
+            <item index="10" class="java.lang.String" itemvalue="silx" />
+            <item index="11" class="java.lang.String" itemvalue="tpot" />
+            <item index="12" class="java.lang.String" itemvalue="graphviz" />
+            <item index="13" class="java.lang.String" itemvalue="cached-property" />
+            <item index="14" class="java.lang.String" itemvalue="m2cgen" />
+            <item index="15" class="java.lang.String" itemvalue="optuna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mplfinance.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
